@@ -10,8 +10,9 @@
    - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" >
    <br> 
    
-   
-   ![João Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=onedark)
-   <br> <br> <br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtRibeiro&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-   
+  <img alt="João Ribeiro's Github Stas" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark">
+  
+  <br>
+  
+  <img alt="João Ribeiro most used languages" src="https://github-readme-stats-joaovtribeiro.vercel.app/api/top-langs/?username=JoaoVtRibeiro&layout=compact&theme=dark">
+
