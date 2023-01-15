@@ -10,7 +10,7 @@
    - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" >
    <br> 
    
-  <img alt="João Ribeiro's Github Stas" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark">
+  <img alt="João Ribeiro's Github Stats" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark">
   
   <br>
   
