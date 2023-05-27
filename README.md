@@ -23,5 +23,5 @@ alt="node-logo">
  
  - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres-logo">
  - <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb-logo">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVtRibeiro&theme=dark&locale=pt_BR)](https://git.io/streak-stats)y
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVtRibeiro&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
