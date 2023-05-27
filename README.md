@@ -10,7 +10,6 @@
    - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" >
    - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
 alt="node-logo">
-
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
    
   <!--<img alt="João Ribeiro's Github Stats" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark">
