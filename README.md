@@ -12,10 +12,8 @@
 alt="node-logo">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
    
-  <!--<img alt="João Ribeiro's Github Stats" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark">
-  
-  <br>
-  
+  <!--<img alt="João Ribeiro's Github Stats" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark"> 
+  <br>  
   <img alt="João Ribeiro most used languages" src="https://github-readme-stats-joaovtribeiro.vercel.app/api/top-langs/?username=JoaoVtRibeiro&layout=compact&theme=dark">-->
   
  :pencil: Atualmente estou estudando:
