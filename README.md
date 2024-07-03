@@ -16,6 +16,3 @@ alt="node-logo">
   <!--<img alt="João Ribeiro's Github Stats" src="https://github-readme-stats-joaovtribeiro.vercel.app/api?username=JoaoVtRibeiro&show_icons=true&theme=dark"> 
   <br>  
   <img alt="João Ribeiro most used languages" src="https://github-readme-stats-joaovtribeiro.vercel.app/api/top-langs/?username=JoaoVtRibeiro&layout=compact&theme=dark">-->
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVtRibeiro&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-
